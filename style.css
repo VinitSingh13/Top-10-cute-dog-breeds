@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+}
+h1{
+  font-family: 'Quintessential', cursive;
+}
+h2{
+  font-family: 'Quintessential', cursive;
+}
+img{
+  width:50%;
+  height:50%;
+  /* float: left; */
+}
+.dog-img{
+  margin-top: 2%;
+}
+.dog-name{
+  font-weight: bold;
+  font-family: 'Quintessential', cursive;
+  font-size: 1.3750rem;
+}
+.info{
+  font-family: 'Cinzel', serif;
+  font-size:1.2500rem;
+  line-height: 1.5;
+  margin:0 auto 0 auto;
+  text-align: left;
+  width:50%;
+}
